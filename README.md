@@ -12,7 +12,7 @@
 * [Queer Your Bots: The Bot Builder Roundtable](http://www.autostraddle.com/queer-your-bots-the-bot-builder-roundtable-333806/)
 
 ## Schedule
-* 1:00pm: Introduction, look at a selection of creative bots
+* 1:00pm: Introductions, look at a selection of creative bots
 * 1:15pm: Basics of node
 * 1:30pm: Basics of Twitter API (search, post, favorite, retweet)
 * 2:00pm: Classic Generative Text Algorithms with Rita.js: Markov Chains, Context-Free Grammars
