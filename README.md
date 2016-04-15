@@ -18,19 +18,33 @@
    * [How to Make a Bot That Isn't Racist](http://motherboard.vice.com/read/how-to-make-a-not-racist-bot
 )
    * [Queer Your Bots: The Bot Builder Roundtable](http://www.autostraddle.com/queer-your-bots-the-bot-builder-roundtable-333806/)
+   * [Twitter: Automation rules and best practices](https://support.twitter.com/articles/76915)
 * [Fill out this survey](http://goo.gl/forms/7prfDpNS29)
+
 
 ## Schedule
 * 1:00pm: Introductions, look at a selection of creative bots
 * 1:15pm: Basics of node
-* 1:30pm: Basics of Twitter API (search, post, favorite, retweet)
-* 2:00pm: Classic Generative Text Algorithms with Rita.js: Markov Chains, Context-Free Grammars
-* 2:30pm: Connecting to APIs (Wordnik, NYTimes)
-* 3:00pm: Generating images
-* 3:15pm: Make your bot!
-* 3:45pm: Show your bot!
+* 1:30pm: Basics of Twitter API in Node (search, post, favorite, retweet)
+* 2:00pm: Classic Generative Text Algorithms
+    * Grammars using [Tracery](https://github.com/galaxykate/tracery) by [GalaxyKate](https://twitter.com/GalaxyKate)
+    * Markov chains via [Rita.js](https://github.com/dhowe/RiTaJS)
+* 2:30pm: Getting Data
+    * Local text files
+    * [Corpora](https://github.com/dariusk/corpora) from [tinysubversions](https://twitter.com/tinysubversions)
+* 3:00pm: Generating images with [Processing](https://processing.org/)
+* 3:15pm: Questions / workshop
+* 3:45pm: Any quick demos / discussion
 
 ## Resources:
 * [Download node](https://nodejs.org/en/)
+* [Twit](https://github.com/ttezel/twit)
+* [Twitter API docs](https://dev.twitter.com/overview/documentation)
 * [Twitter Bot with Node video tutorials](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV)
+* [Tracery](https://github.com/galaxykate/tracery)
+  * [Tracery Tutorial](http://www.crystalcodepalace.com/traceryTut.html)  
+  * [Visual Tracery Editor](http://www.brightspiral.com/tracery/)
+  * [Cheap Bots Done Quick](http://cheapbotsdonequick.com/)
+* [Rita.js](https://github.com/dhowe/RiTaJS) 
+* [Corpora]()
 
