@@ -15,6 +15,7 @@
    * [video tutorial](https://youtu.be/GQC2lJIAyzM?list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV)
 * Read these articles for ideas / inspiration
    * [12 Weird, Excellent Twitter Bots Chosen by Twitter’s Best Bot-Makers](http://nymag.com/following/2015/11/12-weirdest-funniest-smartest-twitter-bots.html)
+   * [Some Strategies of Bot Poetics](https://harrygiles.org/2016/04/06/some-strategies-of-bot-poetics/)
    * [How to Make a Bot That Isn't Racist](http://motherboard.vice.com/read/how-to-make-a-not-racist-bot
 )
    * [Queer Your Bots: The Bot Builder Roundtable](http://www.autostraddle.com/queer-your-bots-the-bot-builder-roundtable-333806/)
@@ -36,6 +37,10 @@
 * 3:15pm: Questions / workshop
 * 3:45pm: Any quick demos / discussion
 
+## Inspiration
+* [Some Strategies of Bot Poetics](https://harrygiles.org/2016/04/06/some-strategies-of-bot-poetics/)
+* []()
+
 ## Resources:
 * [Download node](https://nodejs.org/en/)
 * [Twit](https://github.com/ttezel/twit)
@@ -46,6 +51,7 @@
   * [Visual Tracery Editor](http://www.brightspiral.com/tracery/)
   * [Cheap Bots Done Quick](http://cheapbotsdonequick.com/)
 * [Rita.js](https://github.com/dhowe/RiTaJS) 
+* [Markov chains explained](http://setosa.io/blog/2014/07/26/markov-chains/)
 * [Corpora](https://github.com/dariusk/corpora)
 * [Wordnik API](http://developer.wordnik.com/)
 
