@@ -46,5 +46,6 @@
   * [Visual Tracery Editor](http://www.brightspiral.com/tracery/)
   * [Cheap Bots Done Quick](http://cheapbotsdonequick.com/)
 * [Rita.js](https://github.com/dhowe/RiTaJS) 
-* [Corpora]()
+* [Corpora](https://github.com/dariusk/corpora)
+* [Wordnik API](http://developer.wordnik.com/)
 
