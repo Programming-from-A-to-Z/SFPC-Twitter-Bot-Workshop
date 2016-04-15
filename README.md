@@ -32,7 +32,7 @@
 * 2:30pm: Getting Data
     * Local text files
     * [Corpora](https://github.com/dariusk/corpora) from [tinysubversions](https://twitter.com/tinysubversions)
-* 3:00pm: Generating images with [Processing](https://processing.org/)
+* 2:45pm: Generating images with [Processing](https://processing.org/)
 * 3:15pm: Questions / workshop
 * 3:45pm: Any quick demos / discussion
 
