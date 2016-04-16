@@ -44,6 +44,9 @@
 * [Move over, chatbots: meet the artbots](https://www.theguardian.com/technology/2016/apr/15/move-over-chatbots-meet-the-artbots)
 
 ## Resources:
+* [Additional Tutorials from A to Z class](http://shiffman.github.io/A2Z-F15/)
+   * [EC2 Deployment](http://shiffman.github.io/A2Z-F15/week9/ec2.html) 
+   * [Heroku](http://shiffman.github.io/A2Z-F15/week9/heroku.html) 
 * [Download node](https://nodejs.org/en/)
 * [Twit](https://github.com/ttezel/twit)
 * [Twitter API docs](https://dev.twitter.com/overview/documentation)
