@@ -3,7 +3,26 @@ there is the remix a statement bot @stuffcommentbot and the merge two talkers to
 retweet a search
 
 generative art bot
+ @mothgenerator by @katierosepipkin & @thewillthewisp by @neauoire :D
 
 Bots that interact with real world hardware like @OliverBarkBark or @tardygram or <cough> @NixieBot
 
 @everyword bot
+
+markov chain mashups like the xlnt @SarowidPalinUSA
+
+image filtering bots? Input: <image> and hashtags, output: <filtered image>
+  @DeepForger @SacredGeoBot
+
+
+I very much like the -tweeting emoji scenes like @choochoobot- type :)
+
+@everyword versus bots! Like @campusVs, the use of the hashtag #campusVs gives you a random pokemon challenge (its turned off now)
+
+There is Wolfram's @wolframtap that computes what you tweet at it and replies with the result.
+
+bots that search for phrases or randomly select followers’ tweets and respond w/canned content e.g. @ceasedesistbot
+
+
+http://wiki.xxiivv.com/Automatons
+http://enigmabrot.de/blockseminar_twitterbots/tag2/index.html#/8

@@ -39,7 +39,9 @@
 
 ## Inspiration
 * [Some Strategies of Bot Poetics](https://harrygiles.org/2016/04/06/some-strategies-of-bot-poetics/)
-* []()
+* [A collection of twitter games and chatbots, along with their source files.](http://wiki.xxiivv.com/Automatons)
+* [Botwiki](https://botwiki.org/bots/)
+* [Move over, chatbots: meet the artbots](https://www.theguardian.com/technology/2016/apr/15/move-over-chatbots-meet-the-artbots)
 
 ## Resources:
 * [Download node](https://nodejs.org/en/)
@@ -49,9 +51,12 @@
 * [Tracery](https://github.com/galaxykate/tracery)
   * [Tracery Tutorial](http://www.crystalcodepalace.com/traceryTut.html)  
   * [Visual Tracery Editor](http://www.brightspiral.com/tracery/)
-  * [Cheap Bots Done Quick](http://cheapbotsdonequick.com/)
 * [Rita.js](https://github.com/dhowe/RiTaJS) 
 * [Markov chains explained](http://setosa.io/blog/2014/07/26/markov-chains/)
 * [Corpora](https://github.com/dariusk/corpora)
 * [Wordnik API](http://developer.wordnik.com/)
+
+## Other ways to make bots
+  * [Cheap Bots Done Quick with Tracery](http://cheapbotsdonequick.com/)
+  * [Allison Parrish Google Spreadsheet bot](http://air.decontextualize.com/twitterbot/)
 
