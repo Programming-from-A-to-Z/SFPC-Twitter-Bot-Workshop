@@ -2,7 +2,7 @@
 void setup() {
   size(320, 240);
   
-  String filename = "cat.jpg";
+  String filename = "media.jpeg";  //this should match the "media" file outputted by bot.js
   
   if (args !=null && args.length > 0) {
     filename = args[0];
