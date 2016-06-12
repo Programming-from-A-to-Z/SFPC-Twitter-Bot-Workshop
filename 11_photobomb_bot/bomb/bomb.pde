@@ -1,4 +1,3 @@
-
 void setup() {
   size(320, 240);
   
@@ -8,39 +7,31 @@ void setup() {
     filename = args[0];
   }
 
+  //This is the image they send to us
   PImage source = loadImage(filename);
   
-  //Adding the loading of dan image to go on top
-  PImage top = loadImage("dan1.png");
+  //Choose a random dan image from the 3 possibilities (to go on top)
+  int rimg = ceil(random(3));
+  //load the Dan image
+  PImage top = loadImage("dan" + rimg + ".png");
+  //resize the dan image relative to the source image
+  top.resize(0, source.height*2/5);
 
+  //Create
   PGraphics g = createGraphics(source.width, source.height);
   g.beginDraw();
   g.background(0);
   
-  //added to put media image first
+  //Place their source image at origin
   g.image(source, 0, 0);
   
-  //added to put dan image on top
-  //(0, height/2) at half of its size
-  //image(img, 0, height/2, img.width/2, img.height/2);
-  g.image(top, 0, top.height-250, top.width/2, top.height/2);
-  
-  
-
-/*
-  for (int i = 0; i < 10000; i++) {
-    float x = random(g.width);
-    float y = random(g.height);
-    color c = source.get(int(x), int(y));
-    g.fill(c, 50);
-    g.noStroke();
-    g.ellipse(x, y, 20, 20);
-  }
-  */
+  //Generate value for random placement along x-axis with 20px padding
+  float rplace = ceil(random(20, source.width - top.width -20));
+  //Place Dan image at a random spot along x axis aligned to the bottom of source 
+  //(Dan is 2/5 tall so put him 3/5 down so he his 'bottom' does not show.)
+  g.image(top, rplace, source.height*3/5 + 10);
   
   g.endDraw();
   g.save("output.png"); 
   exit();
-
-  //exit();
 }
