@@ -1,0 +1,16 @@
+{
+  "name": "Photobomb_bot",
+  "version": "1.0.0",
+  "description": "Twitter Photobomb Replier bot",
+  "main": "shiffbot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michelle Brown from Shiffman",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.72.0",
+    "twit": "^2.2.3"
+  }
+}
