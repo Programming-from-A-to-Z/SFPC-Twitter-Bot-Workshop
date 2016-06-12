@@ -1,1 +1,1 @@
-worker: node shiffbot_notreply.js
+worker: node shiffbot.js
