@@ -1,5 +1,7 @@
 // Modificaiton from SFPC Bot Workshop by // Daniel Shiffman
 // https://github.com/shiffman/SFPC-Twitter-Bot-Workshop
+// Listens for a image tweeted to it, then replies with
+//  an image 'photobombed' with Shiffman on top. 
 
 // Create an Twitter object to connect to Twitter API
 // npm install twit
@@ -69,7 +71,7 @@ function tweetEvent(tweet) {
 
       // Now save it to disk with that filename
       // Put it in the Processing folder
-      request(url).pipe(fs.createWriteStream('C:/Users/NDI User/Dropbox/processing-3.0.2-windows64/bomb/'+filename)).on('close', filed);  //here+++++++++
+      request(url).pipe(fs.createWriteStream('bomb/'+filename)).on('close', filed);  //here+++++++++
 
       // Ok it's saved to disk
       function filed() {
@@ -87,7 +89,7 @@ function tweetEvent(tweet) {
           console.log(stdout);
 
           // Read the file made by Processing
-          var b64content = fs.readFileSync('C:/Users/NDI User/Dropbox/processing-3.0.2-windows64/bomb/output.png', { encoding: 'base64' })  //here+++++++++
+          var b64content = fs.readFileSync('bomb/output.png', { encoding: 'base64' })  //here+++++++++
 
           // Upload the media
           T.post('media/upload', { media_data: b64content }, uploaded);
